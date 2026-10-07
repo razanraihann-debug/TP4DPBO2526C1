@@ -29,6 +29,6 @@ Struktur kode:
 6. **Cancel** – mengosongkan form & membatalkan mode edit.
 
 # Dokumentasi
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://youtu.be/mAAArf4WllI?si=d5HpBhce1oKBz7Bh](https://youtu.be/Agr1uZx2zwY?si=vdwjtHtCV4IXQlnE))
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=Agr1uZx2zwY)
 
 klik untuk melihat video
