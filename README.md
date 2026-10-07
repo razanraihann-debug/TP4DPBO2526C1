@@ -1,8 +1,10 @@
 # Janji
 Saya Razan Raihan Malik dengan NIM 2508838 mengerjakan Tugas Praktikum 4 pada Mata Kuliah Desain dan Pemrograman Berorientasi Objek (DPBO) untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
 
-## Desain / Fungsi Program
+# Struktur File
+<img width="399" height="181" alt="Screenshot 2026-10-07 at 22 51 28" src="https://github.com/user-attachments/assets/bf4e8a91-9f72-4ec5-add0-4abc7f8bf40a" />
 
+# Desain / Fungsi Program
 Tema **People** divisualisasikan sebagai kru stasiun luar angkasa. Setiap `Person` memiliki atribut:
 
 | Atribut | Komponen Form | Keterangan |
@@ -14,13 +16,11 @@ Tema **People** divisualisasikan sebagai kru stasiun luar angkasa. Setiap `Perso
 | **Level Energi** *(atribut baru)* | **`JSlider`** | Nilai 0–100%, nilainya tampil real-time di samping slider (**bonus +20**, bukan `JTextField`) |
 
 Struktur kode:
-
 - `Person.java` – class model (atribut, constructor, getter/setter).
 - `PeopleMenu.java` – form utama (GUI + logika CRUD). Data disimpan di `ArrayList<Person>` dan diisi awal oleh `populateList()`.
 - `PeopleMenu.form` – desain form (IntelliJ IDEA GUI Designer), ter-bind ke class `PeopleMenu`.
 
-## Alur Program
-
+# Alur Program
 1. Program dijalankan → `populateList()` mengisi 8 data awal → ditampilkan di `JTable`.
 2. **Create** – isi form, klik **Add**. Divalidasi (field kosong, tahun harus angka & rentang valid, kategori wajib dipilih, ID tidak boleh duplikat).
 3. **Read** – seluruh data tampil di tabel. Klik satu baris untuk memuat datanya ke form (mode edit: tombol Add nonaktif, Update & Delete aktif, ID dikunci).
@@ -28,4 +28,7 @@ Struktur kode:
 5. **Delete** – klik **Delete** → muncul **dialog konfirmasi** (Yes/No). Data baru dihapus jika memilih *Yes*.
 6. **Cancel** – mengosongkan form & membatalkan mode edit.
 
-## Dokumentasi
+# Dokumentasi
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://youtu.be/mAAArf4WllI?si=d5HpBhce1oKBz7Bh](https://youtu.be/Agr1uZx2zwY?si=vdwjtHtCV4IXQlnE))
+
+klik untuk melihat video
