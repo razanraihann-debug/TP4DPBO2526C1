@@ -29,19 +29,4 @@ Struktur kode:
 5. **Delete** – klik **Delete** → muncul **dialog konfirmasi** (Yes/No). Data baru dihapus jika memilih *Yes*.
 6. **Cancel** – mengosongkan form & membatalkan mode edit.
 
-## Cara Menjalankan
-
-**IntelliJ IDEA:** buka folder `PeopleData` sebagai project (taruh `.java` dan `.form` di source root), lalu jalankan `main()` pada `PeopleMenu`.
-Pastikan di *Settings → Editor → GUI Designer* opsi **Generate GUI into: Binary class files** (default) aktif.
-
 ## Dokumentasi
-
-> Ganti gambar di bawah dengan screenshot/GIF hasil run programmu (simpan di folder `Dokumentasi/`).
-
-| Operasi | Tampilan |
-|---|---|
-| Tampilan awal (Read) | ![Awal](Dokumentasi/01-awal.png) |
-| Create (Add) | ![Create](Dokumentasi/02-create.png) |
-| Update | ![Update](Dokumentasi/03-update.png) |
-| Konfirmasi Delete | ![Konfirmasi](Dokumentasi/04-konfirmasi-delete.png) |
-| Setelah Delete | ![Delete](Dokumentasi/05-delete.png) |
