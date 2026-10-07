@@ -1,6 +1,5 @@
-# Data Kru Stasiun Antariksa (PeopleData)
-
-Tugas Praktikum 4 – DPBO. Aplikasi desktop Java Swing (CRUD) untuk mengelola data kru **Stasiun Antariksa Nusantara-1**.
+# Janji
+Saya Razan Raihan Malik dengan NIM 2508838 mengerjakan Tugas Praktikum 4 pada Mata Kuliah Desain dan Pemrograman Berorientasi Objek (DPBO) untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
 
 ## Desain / Fungsi Program
 
